@@ -61,7 +61,7 @@ $ python3 menu.py
 
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
-  <p align="center" ><img alt="zoldcky" src="https://github.com/Thorkrz/zoldyck-osint/blob/main/run1.jpg"width=500>
+  <p align="center" ><img alt="zoldcky" src="https://github.com/Thorkrz/zoldyck-osint/blob/main/run1.png"width=500>
  
 
 </p>
